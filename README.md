@@ -1,4 +1,4 @@
-# Sowmya_Resumetemplate
+# Mandar_Resumetemplate
  
 Resume Template
 You are working as a front end developer in an organization and the organization has job
